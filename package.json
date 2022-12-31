@@ -1,0 +1,22 @@
+{
+  "name": "May tinh su dep trai",
+  "version": "1.0.0",
+  "description": "Co the kiem tra xem ban co dep trai khong",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "ip": "^1.1.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

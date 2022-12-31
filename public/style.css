@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.title p {
+  font-size: large;
+  font-weight: bolder;
+}
+
+#btn .btn-check {
+  border: none;
+  background: lightblue;
+  color: white;
+  padding: 15px 15px;
+  cursor: pointer;
+  transition: background 1s;
+}
+
+.btn .btn-check:hover {
+  background: limegreen;
+}
+
+#checkTxt {
+  display: none;
+}
+
+.note {
+  font-weight: bold;
+}
