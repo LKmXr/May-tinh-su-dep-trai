@@ -1,15 +1,17 @@
 {
   "name": "May tinh su dep trai",
   "version": "1.0.0",
-  "description": "Co the kiem tra xem ban co dep trai khong",
+  "description": "Mot ung dung Node.js co the kiem tra xem ban co dep trai khong",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "LKmXr",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^5.2.0",
     "express": "^4.18.2",
