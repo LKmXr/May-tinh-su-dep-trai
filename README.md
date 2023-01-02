@@ -16,7 +16,7 @@ npm install
 node index.js
 ```
 
-3. Nhập địa chỉ IP và cổng hiện trên dấu nhắc lệnh vào trình duyệt (Khuyến khích dùng Chrome bản mới nhất)
+3. Nhập địa chỉ IP và cổng hiện trên dấu nhắc lệnh vào trình duyệt (Khuyến khích dùng [Chrome](https://www.google.com/intl/vi_vn/chrome/) bản mới nhất
 
 ## Lưu ý
 
